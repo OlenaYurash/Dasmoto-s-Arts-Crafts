@@ -1,6 +1,6 @@
 html, body {
 margin: 0;
-padding: 0;
+padding: 0 10px;
 }
 
 header {
@@ -32,4 +32,17 @@ background-image: url(pattern.jpeg) ;
 
  #paint {
     background-color: skyblue;
+ }
+
+ .price {
+   font-family: Helvetica;
+   font-weight: bold;
+   color: blue;
+   display: inline;
+
+ }
+
+ img {
+   width: 250px;
+   height: 250px;
  }
