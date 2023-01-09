@@ -1,1 +1,35 @@
+html, body {
+margin: 0;
+padding: 0;
+}
 
+header {
+background-image: url(pattern.jpeg) ;
+}
+
+#title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+
+}
+.supply {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+ }
+
+ #brushes {
+    background-color: mediumspringgreen;
+ }
+
+ #frames {
+    background-color: lightcoral;
+ }
+
+ #paint {
+    background-color: skyblue;
+ }
