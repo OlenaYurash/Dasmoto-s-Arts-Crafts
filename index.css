@@ -20,18 +20,22 @@ background-image: url(pattern.jpeg) ;
     font-size: 32px;
     font-weight: bold;
     color: white;
+    text-align: center;
  }
 
  #brushes {
     background-color: mediumspringgreen;
+    border-radius: 50px;
  }
 
  #frames {
     background-color: lightcoral;
+    border-radius: 50px;
  }
 
  #paint {
     background-color: skyblue;
+    border-radius: 50px;
  }
 
  .price {
